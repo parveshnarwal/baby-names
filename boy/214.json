@@ -1,0 +1,902 @@
+[
+  {
+    "gender": "Boy",
+    "id": 999205,
+    "meaning": "Heart; Mind; Spirit",
+    "name": "Hudde",
+    "origin": "Germanic,Norman",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hudde-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924305,
+    "meaning": "A pet form of the medieval name Hudde",
+    "name": "Huddy",
+    "origin": "Irish",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huddy-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958342,
+    "meaning": "An old Arabic name",
+    "name": "hudhafah",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hudhafah-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958343,
+    "meaning": "An ancient Arabic name",
+    "name": "hudhaifah",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hudhaifah-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958344,
+    "meaning": "An ancient Arabic name",
+    "name": "hudhayfah",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hudhayfah-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958345,
+    "meaning": "Peace; Calm; Quiet",
+    "name": "hudn",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hudn-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924306,
+    "meaning": "Son of Hudd; Son of Hugh",
+    "name": "Hudson",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hudson-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958352,
+    "meaning": "Bright in mind and spirit",
+    "name": "huey",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huey-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958353,
+    "meaning": "Plenty; Abundance",
+    "name": "huful",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huful-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958355,
+    "meaning": "One who has a heart and a mind",
+    "name": "hugeburc",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugeburc-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924307,
+    "meaning": "A sage; A saint\u0027s name",
+    "name": "Huggahalli",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huggahalli-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958357,
+    "meaning": "Mind; Thought; Bright soul; Spirit",
+    "name": "hugh",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugh-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958358,
+    "meaning": "brilliant In Mind And strength",
+    "name": "hughe",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hughe-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924308,
+    "meaning": "Fire ",
+    "name": "Hughes",
+    "origin": "Germanic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hughes-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924309,
+    "meaning": "Heart; Mind; Spirit; A diminutive of Hugh",
+    "name": "Hughie",
+    "origin": "Germanic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hughie-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958361,
+    "meaning": "strong desire",
+    "name": "hughoc",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hughoc-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958362,
+    "meaning": "Intelligent; Smart",
+    "name": "hugi",
+    "origin": "",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugi-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958363,
+    "meaning": "intelligent",
+    "name": "hugiet",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugiet-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997133,
+    "meaning": "One who is thoughtful",
+    "name": "Hugin",
+    "origin": "Norse,Norwegian,Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hugin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958364,
+    "meaning": "Mind; Spirit",
+    "name": "hugo",
+    "origin": "English,French,Spanish,Swedish,Teutonic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugo-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958367,
+    "meaning": "quality",
+    "name": "hugon",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugon-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958368,
+    "meaning": "intelligence",
+    "name": "hugone",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hugone-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924310,
+    "meaning": "Heart; Mind; Spirit",
+    "name": "Hugues",
+    "origin": "French,Germanic,Spanish",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hugues-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958369,
+    "meaning": "Active; Attentive",
+    "name": "huhha",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huhha-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924311,
+    "meaning": "In attentive response",
+    "name": "Huhu",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huhu-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924312,
+    "meaning": "A name for Luis in Spanish",
+    "name": "Huicho",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huicho-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924313,
+    "meaning": "Hummingbird; Feather of a hummingbird; Pen of a hummingbird",
+    "name": "Huitzilihuitl",
+    "origin": "Nahuatl",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huitzilihuitl-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 999770,
+    "meaning": "Hummingbird",
+    "name": "Huitzilin",
+    "origin": "Aztec",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huitzilin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 991164,
+    "meaning": "Hummingbird",
+    "name": "Huitzilli",
+    "origin": "Nahuatl",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huitzilli-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958373,
+    "meaning": "Demonstration; Proof",
+    "name": "hujjat",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hujjat-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958374,
+    "meaning": "proof of islam",
+    "name": "hujjatulislam",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hujjatulislam-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958375,
+    "meaning": "Prophet Idris",
+    "name": "hujjatullah",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hujjatullah-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958376,
+    "meaning": "Order; Command",
+    "name": "hukam",
+    "origin": "Indian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hukam-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958379,
+    "meaning": "Order; Command",
+    "name": "hukm",
+    "origin": "Indian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hukm-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924316,
+    "meaning": "Order; God\u0027s Will; God\u0027s Command",
+    "name": "Hukum",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hukum-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924317,
+    "meaning": "Victory with God\u0027s Will; Success of God\u0027s will; Triumph of God\u0027s Command",
+    "name": "Hukumjeet",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hukumjeet-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924318,
+    "meaning": "Love for God\u0027s Will; One who love to follow God\u0027s Command",
+    "name": "Hukumpreet",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hukumpreet-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924319,
+    "meaning": "Joy; Rejoicing; Jubliation; To be glad",
+    "name": "Hulas",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hulas-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958382,
+    "meaning": "An old Arabic name",
+    "name": "hulayl",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hulayl-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958383,
+    "meaning": "stylish",
+    "name": "hulbard",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hulbard-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958384,
+    "meaning": "elegant",
+    "name": "hulbart",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hulbart-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958385,
+    "meaning": "sophisticated",
+    "name": "huldiberaht",
+    "origin": "German",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huldiberaht-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958386,
+    "meaning": "Dream; Vision",
+    "name": "hulum",
+    "origin": "Arabic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hulum-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958388,
+    "meaning": "Sing; Buzz",
+    "name": "hum",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hum-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958390,
+    "meaning": "Blesses; Auspicious",
+    "name": "humaayoon",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humaayoon-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958391,
+    "meaning": "praised",
+    "name": "humaid",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humaid-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958393,
+    "meaning": "blooming",
+    "name": "humair",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humair-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924324,
+    "meaning": "God; Supreme Being; Creator and Ruler of Universe;",
+    "name": "Humaithi",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Humaithi-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958396,
+    "meaning": "generous and courageous",
+    "name": "humam",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humam-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958397,
+    "meaning": "brave",
+    "name": "humamuddin",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humamuddin-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958398,
+    "meaning": "Protector; Good thought",
+    "name": "humat",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humat-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958399,
+    "meaning": "praised",
+    "name": "humayd",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humayd-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958401,
+    "meaning": "divine",
+    "name": "humayu",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humayu-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958402,
+    "meaning": "blissful",
+    "name": "humayun",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humayun-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958404,
+    "meaning": "Bright; Bear cub",
+    "name": "humbert",
+    "origin": "English",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humbert-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958405,
+    "meaning": "Extravagent",
+    "name": "humberth",
+    "origin": "British",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humberth-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958406,
+    "meaning": "A famous fighter",
+    "name": "humberto",
+    "origin": "Portuguese,Spanish",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humberto-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958407,
+    "meaning": "respect allah",
+    "name": "humd",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humd-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958408,
+    "meaning": "come from den",
+    "name": "hume",
+    "origin": "Scottish",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hume-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958411,
+    "meaning": "The oint where something begins or arises; One who is individualistic, charming and honest",
+    "name": "Humesh",
+    "origin": "Indian",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Humesh-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958412,
+    "meaning": "violence fighter",
+    "name": "humfrey",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humfrey-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958413,
+    "meaning": "soldier free from disturbance",
+    "name": "humfried",
+    "origin": "German",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humfried-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958414,
+    "meaning": "friendly soldier",
+    "name": "humfry",
+    "origin": "German",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humfry-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958415,
+    "meaning": "Someone who feels less important and proud",
+    "name": "humility",
+    "origin": "United States",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humility-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958417,
+    "meaning": "high strength multipurpose automobile",
+    "name": "hummer",
+    "origin": "United States",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hummer-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958418,
+    "meaning": "lack of satisfaction",
+    "name": "humph",
+    "origin": "German",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humph-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958419,
+    "meaning": "Calm fighter",
+    "name": "humphrey",
+    "origin": "German",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humphrey-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958420,
+    "meaning": "Person wo loves to be calm",
+    "name": "humphrie",
+    "origin": "German",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humphrie-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958421,
+    "meaning": "peaceful person",
+    "name": "humphry",
+    "origin": "German",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humphry-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958423,
+    "meaning": "secret",
+    "name": "humraz",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humraz-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958424,
+    "meaning": "happiness",
+    "name": "humur",
+    "origin": "German",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humur-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958425,
+    "meaning": "High class multipurpose vehicle",
+    "name": "humvee",
+    "origin": "United States",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humvee-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958426,
+    "meaning": "Powerful",
+    "name": "humza",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/humza-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958427,
+    "meaning": "fighter",
+    "name": "hun",
+    "origin": "German",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hun-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958430,
+    "meaning": "valley where the fight happened in time of Prophet Muhammad",
+    "name": "hunain",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunain-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924325,
+    "meaning": "Good qualities; Characteristics and attributes",
+    "name": "Hunar",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hunar-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958432,
+    "meaning": "An important man in the house of wisdom",
+    "name": "hunayn",
+    "origin": "Arabic",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunayn-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958433,
+    "meaning": "high spirit",
+    "name": "hunbald",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunbald-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958434,
+    "meaning": "energetic",
+    "name": "hunbeorht",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunbeorht-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997134,
+    "meaning": "Son of Alf",
+    "name": "Hunbogi",
+    "origin": "Norse,Norwegian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hunbogi-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958436,
+    "meaning": "from battleship field",
+    "name": "hund",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hund-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924326,
+    "meaning": "Dog island; An uninhabited island in the Orkney archipelago in Scotland",
+    "name": "Hunda",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Hunda-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958437,
+    "meaning": "Name of an Arabian poet",
+    "name": "hunduj",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunduj-arabic.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958438,
+    "meaning": "creative person",
+    "name": "hunfirth",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunfirth-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958439,
+    "meaning": "peaceful energy",
+    "name": "hunfredo",
+    "origin": "German,Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunfredo-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958440,
+    "meaning": "calm power",
+    "name": "hunfried",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunfried-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958441,
+    "meaning": "brave",
+    "name": "hung",
+    "origin": "Vietnamese",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hung-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958443,
+    "meaning": "Shrewd nature",
+    "name": "hunlaf",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunlaf-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958444,
+    "meaning": "One who hunts wildlife",
+    "name": "hunnt",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunnt-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958446,
+    "meaning": "A British male name",
+    "name": "hunsige",
+    "origin": "British",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunsige-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958447,
+    "meaning": "One who is a hunter",
+    "name": "hunt",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunt-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958448,
+    "meaning": "He is a hunter",
+    "name": "hunta",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunta-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958449,
+    "meaning": "One who hunts",
+    "name": "huntar",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntar-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958450,
+    "meaning": "Pursuer; Hunter",
+    "name": "hunter",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/hunter-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958451,
+    "meaning": "A person from the hunting farm",
+    "name": "huntingden",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntingden-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958452,
+    "meaning": "One who comes from the huntsman\u0027s hill",
+    "name": "huntingdon",
+    "origin": "English",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntingdon-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 924327,
+    "meaning": "The hunters\u0027 estate; From the hunting land",
+    "name": "Huntington",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Huntington-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958453,
+    "meaning": "He who is from the hunting farm",
+    "name": "huntingtun",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntingtun-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958454,
+    "meaning": "A Boy who is a huntsman",
+    "name": "huntir",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntir-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 958455,
+    "meaning": "A man from the huntsman\u0027s meadow",
+    "name": "huntlea",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/huntlea-english.mp3"
+  }
+]

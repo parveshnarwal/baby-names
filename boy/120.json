@@ -1,0 +1,902 @@
+[
+  {
+    "gender": "Boy",
+    "id": 942347,
+    "meaning": "A certain group of people",
+    "name": "crue",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/crue-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942348,
+    "meaning": "A word name",
+    "name": "cruise",
+    "origin": "Anglo Norman",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cruise-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942349,
+    "meaning": "Literary name",
+    "name": "crusoe",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/crusoe-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942350,
+    "meaning": "Cross; Crucifix",
+    "name": "Cruz",
+    "origin": "Portuguese,Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cruz-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942355,
+    "meaning": "A relaxed, young person",
+    "name": "crympel",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/crympel-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942365,
+    "meaning": "A gift sent fom heaven",
+    "name": "csaba",
+    "origin": "Hungarian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/csaba-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997914,
+    "meaning": "Battle of honor",
+    "name": "Ctibor",
+    "origin": "Slovak",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Ctibor-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 999764,
+    "meaning": "Good",
+    "name": "Cuallea",
+    "origin": "Aztec",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuallea-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 999765,
+    "meaning": "Spelling variation of Cuallea, meaning good.",
+    "name": "Cuallee",
+    "origin": "Aztec",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuallee-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942367,
+    "meaning": "A falling Eagle",
+    "name": "cuauhtemoc",
+    "origin": "Native American",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuauhtemoc-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942368,
+    "meaning": "The one who falls like an Eagle",
+    "name": "cuauhtemotzin",
+    "origin": "Native American",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuauhtemotzin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942369,
+    "meaning": "The centre of an island",
+    "name": "cuba",
+    "origin": "Native American",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuba-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942370,
+    "meaning": "A bold man",
+    "name": "cubba",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cubba-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942371,
+    "meaning": "A bashful, intelligent being",
+    "name": "cubele",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cubele-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 994280,
+    "meaning": "Legendary son of Daere.",
+    "name": "Cubert",
+    "origin": "Cornish,Welsh",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cubert-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942374,
+    "meaning": "An understanding person",
+    "name": "cuchein",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuchein-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942375,
+    "meaning": "A warrior hero",
+    "name": "cuchulainn",
+    "origin": "Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuchulainn-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942376,
+    "meaning": "A cute person",
+    "name": "cuco",
+    "origin": "Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuco-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942377,
+    "meaning": "A lonesome artist",
+    "name": "cucola",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cucola-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942379,
+    "meaning": "Miracle baby",
+    "name": "cuda",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuda-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942380,
+    "meaning": "The best crest jewel",
+    "name": "cudamani",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cudamani-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 921849,
+    "meaning": "Jewel of the Crest; Excellent; Best; One who has a precious jewel",
+    "name": "Cudaratna",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cudaratna-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942381,
+    "meaning": "The famous one",
+    "name": "cudbert",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cudbert-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942382,
+    "meaning": "A dependent, bold, famous person",
+    "name": "cudbriht",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cudbriht-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942383,
+    "meaning": "A youthful, creative person",
+    "name": "cuddey",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuddey-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942384,
+    "meaning": "The bright one",
+    "name": "cuddie",
+    "origin": "Anglo Saxon",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuddie-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942385,
+    "meaning": "A donkey",
+    "name": "cuddy",
+    "origin": "Scottish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuddy-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942386,
+    "meaning": "A logical, noble person",
+    "name": "cuelino",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuelino-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 991129,
+    "meaning": "Nahuatl word for wolf",
+    "name": "Cuetlachtli",
+    "origin": "Nahuatl",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuetlachtli-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 999766,
+    "meaning": "Aztec term for lizard",
+    "name": "Cuetzpallea",
+    "origin": "Aztec",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuetzpallea-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 999767,
+    "meaning": "Alternate spelling for Cuetzpallea; Lizard.",
+    "name": "Cuetzpallee",
+    "origin": "Aztec",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuetzpallee-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942387,
+    "meaning": "A dark coal seller",
+    "name": "cufa",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cufa-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942388,
+    "meaning": "A literary man",
+    "name": "cufel",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cufel-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942389,
+    "meaning": "Phoenix; a very rare bird",
+    "name": "cufna",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cufna-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942390,
+    "meaning": "Understanding person",
+    "name": "cugga",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cugga-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942391,
+    "meaning": "A clear-headed person",
+    "name": "cuha",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuha-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942393,
+    "meaning": "A hard-working, light-hearted individual",
+    "name": "cuichelm",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuichelm-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942394,
+    "meaning": "A reasonable, free man",
+    "name": "cuin",
+    "origin": "Anglo Saxon",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942395,
+    "meaning": "A leader",
+    "name": "cuinn",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuinn-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942396,
+    "meaning": "A famous and clever person",
+    "name": "cuithbeart",
+    "origin": "Scottish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuithbeart-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942397,
+    "meaning": "A famous individual",
+    "name": "cuithbrig",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuithbrig-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942398,
+    "meaning": "A born ruler",
+    "name": "cuitlahuac",
+    "origin": "Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuitlahuac-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942399,
+    "meaning": "Name of a far-off place",
+    "name": "cuitlahuatzin",
+    "origin": "Native American",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuitlahuatzin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 991134,
+    "meaning": "Nahuatl word for kite",
+    "name": "Cuixtli",
+    "origin": "Nahuatl",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuixtli-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942400,
+    "meaning": "A dark-born coal seller",
+    "name": "cula",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cula-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942401,
+    "meaning": "Mythical name",
+    "name": "culann",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culann-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942402,
+    "meaning": "A mighty Seaman",
+    "name": "culbart",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culbart-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942403,
+    "meaning": "The know-all",
+    "name": "culbert",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culbert-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942404,
+    "meaning": "Uilcin\u0027s son",
+    "name": "culkin",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culkin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942405,
+    "meaning": "Handsome; Young hound; Son of the holy one",
+    "name": "Cullen",
+    "origin": "Celtic,Gaelic,United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cullen-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942406,
+    "meaning": "White as a Dove",
+    "name": "culley",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culley-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942407,
+    "meaning": "Good-looking man",
+    "name": "cullin",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cullin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942408,
+    "meaning": "The one who dwells in the wood",
+    "name": "cully",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cully-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942409,
+    "meaning": "The dove",
+    "name": "culver",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/culver-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942410,
+    "meaning": "The one who bears Christ",
+    "name": "cuma",
+    "origin": "Australian,German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuma-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942411,
+    "meaning": "Name of a district in the valley",
+    "name": "cumbra",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cumbra-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942412,
+    "meaning": "A mature and adorable person",
+    "name": "cumma",
+    "origin": "Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cumma-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942413,
+    "meaning": "Meadow near the River",
+    "name": "cummum",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cummum-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 994283,
+    "meaning": "From Cornwall.",
+    "name": "Cumow",
+    "origin": "Cornish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cumow-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942414,
+    "meaning": "A doer",
+    "name": "cunacenni",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunacenni-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942415,
+    "meaning": "Meant to be read",
+    "name": "cunacus",
+    "origin": "Hebrew",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunacus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942416,
+    "meaning": "A learner",
+    "name": "cunanda",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunanda-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942417,
+    "meaning": "An amusing person; son of Cunotamus",
+    "name": "cunatami",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunatami-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942418,
+    "meaning": "A normal, blunt person",
+    "name": "cunbran",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunbran-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942419,
+    "meaning": "A renowned person",
+    "name": "cuncu",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuncu-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942420,
+    "meaning": "To understand",
+    "name": "cunda",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunda-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942421,
+    "meaning": "A neat and daring person",
+    "name": "cunedog",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunedog-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942422,
+    "meaning": "A little Wolf",
+    "name": "cunignos",
+    "origin": "Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunignos-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942423,
+    "meaning": "Village with Milk; leader",
+    "name": "cunningham",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunningham-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942425,
+    "meaning": "Rational one",
+    "name": "cunobarrus",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunobarrus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942426,
+    "meaning": "A Hound",
+    "name": "cunobelinus",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunobelinus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942427,
+    "meaning": "A compassionate person",
+    "name": "cunocennos",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunocennos-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942428,
+    "meaning": "Famous; Brilliant",
+    "name": "cunogusus",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunogusus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942429,
+    "meaning": "A diplomatic, pleasant person",
+    "name": "cunopectus",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunopectus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942430,
+    "meaning": "Name of the son of Cunotamus",
+    "name": "cunotamus",
+    "origin": "Celtic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunotamus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942432,
+    "meaning": "A careful and neat person",
+    "name": "cunovindus",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunovindus-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942433,
+    "meaning": "Head Chief",
+    "name": "cunuaret",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cunuaret-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 1000801,
+    "meaning": "Flourishing; Healthy",
+    "name": "Cuong",
+    "origin": "Vietnamese",
+    "religion": "Buddhism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Cuong-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942434,
+    "meaning": "The one making Barrels",
+    "name": "cupere",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cupere-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942435,
+    "meaning": "The sandpiper",
+    "name": "cupka",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cupka-hindi.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942436,
+    "meaning": "The proud one",
+    "name": "cuppa",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuppa-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 994286,
+    "meaning": "A variant of Curnow meaning from Cornwall.",
+    "name": "Curnow",
+    "origin": "Cornish,Welsh",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Curnow-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942437,
+    "meaning": "Spear; Hero",
+    "name": "curra",
+    "origin": "Gaelic,Scottish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/curra-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942438,
+    "meaning": "A dagger",
+    "name": "curran",
+    "origin": "Gaelic,Scottish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/curran-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997845,
+    "meaning": "Sicilian form of Conrad; Brave counsel",
+    "name": "Currau",
+    "origin": "German,Sicilian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Currau-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942439,
+    "meaning": "One who cures leather",
+    "name": "currer",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/currer-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942440,
+    "meaning": "A dagger; Hero",
+    "name": "currie",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/currie-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942441,
+    "meaning": "An occupational name who cures leather",
+    "name": "currier",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/currier-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942442,
+    "meaning": "Variant of Curran",
+    "name": "currin",
+    "origin": "Gaelic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/currin-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942444,
+    "meaning": "A sharp dagger",
+    "name": "Curry",
+    "origin": "Gaelic,Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Curry-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942445,
+    "meaning": "Derived from court; Courteous",
+    "name": "Curt",
+    "origin": "German,Latin",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Curt-german.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942446,
+    "meaning": "Courteous; Polite; Well bred",
+    "name": "Curtis",
+    "origin": "Anglo Norman,English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Curtis-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942447,
+    "meaning": "Son of a Dark man",
+    "name": "curtiss",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/curtiss-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942448,
+    "meaning": "The one who provokes",
+    "name": "cusa",
+    "origin": "Native American",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cusa-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942449,
+    "meaning": "A harsh term",
+    "name": "cusick",
+    "origin": "Anglo Saxon,German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cusick-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942450,
+    "meaning": "Harsh term",
+    "name": "cuss",
+    "origin": "French",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cuss-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942451,
+    "meaning": "Admirable; worthy of respect",
+    "name": "cussa",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cussa-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 942453,
+    "meaning": "To develop",
+    "name": "cust",
+    "origin": "Latin",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/cust-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997846,
+    "meaning": "Constant or steadfast",
+    "name": "Custanti",
+    "origin": "Latin,Sicilian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Custanti-english.mp3"
+  },
+  {
+    "gender": "Boy",
+    "id": 997847,
+    "meaning": "Sicilian form of Constantinus meaning constant",
+    "name": "Custantinu",
+    "origin": "Latin,Sicilian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Custantinu-english.mp3"
+  }
+]
