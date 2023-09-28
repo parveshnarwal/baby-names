@@ -1,0 +1,902 @@
+[
+  {
+    "gender": "Girl",
+    "id": 990251,
+    "meaning": "Born during Christmas",
+    "name": "Tassa",
+    "origin": "Romanian,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tassa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985721,
+    "meaning": "She who makes the sacrifice",
+    "name": "tassadaq",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tassadaq-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985722,
+    "meaning": "Birthday",
+    "name": "tassiana",
+    "origin": "Latin,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tassiana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985723,
+    "meaning": "A familiar form of Tasmin",
+    "name": "tassie",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tassie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985726,
+    "meaning": "Born on Christmas",
+    "name": "tassy",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tassy-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985728,
+    "meaning": "One who speaks the truth",
+    "name": "tasweeb",
+    "origin": "Urdu",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tasweeb-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985729,
+    "meaning": "She who will be reborn",
+    "name": "tasya",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tasya-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985730,
+    "meaning": "One who brings heat",
+    "name": "tatan",
+    "origin": "Bengali",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatan-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985733,
+    "meaning": "A glad or cheerful person of the woods",
+    "name": "tateleigh",
+    "origin": "Saxon",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tateleigh-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985734,
+    "meaning": "A joyful girl",
+    "name": "tatem",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatem-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985736,
+    "meaning": "Old English surname",
+    "name": "tateum",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tateum-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985738,
+    "meaning": "A person who is everywhere and all around",
+    "name": "tatha",
+    "origin": "Bengali",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatha-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985743,
+    "meaning": "A thoughtful, spirited and level headed person",
+    "name": "tathere",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tathere-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985746,
+    "meaning": "Short form of the Russian name Tatiana",
+    "name": "tati",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tati-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985747,
+    "meaning": "Fairy queen",
+    "name": "tatia",
+    "origin": "Russian,Slavic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985748,
+    "meaning": "Queen of the fairies",
+    "name": "tatiana",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatiana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985749,
+    "meaning": "Fairy princess",
+    "name": "tatianna",
+    "origin": "Latin,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatianna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985750,
+    "meaning": "The good country",
+    "name": "tatiara",
+    "origin": "Aboriginal",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatiara-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985751,
+    "meaning": "Fairy queen",
+    "name": "tatienne",
+    "origin": "French",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatienne-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985752,
+    "meaning": "An old Roman family name",
+    "name": "tating",
+    "origin": "Latin,Old Roman",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tating-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985753,
+    "meaning": "River",
+    "name": "tatini",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatini-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985754,
+    "meaning": "A variation of Russian Tatiana; From a Latin family name; Fairy queen",
+    "name": "tatjana",
+    "origin": "German,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatjana-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985755,
+    "meaning": "One who is absorbed in the ultimate truth",
+    "name": "tatleen",
+    "origin": "Indian",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatleen-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985757,
+    "meaning": "A practical, diligent and talented girl",
+    "name": "tatriss",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatriss-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985758,
+    "meaning": "A boat",
+    "name": "tatritri",
+    "origin": "Bengali",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatritri-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985760,
+    "meaning": "A female dragon",
+    "name": "tatsuo",
+    "origin": "Japanese",
+    "religion": "Shinto",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatsuo-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985762,
+    "meaning": "A poised, affectionate and humble being",
+    "name": "tatta",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatta-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985763,
+    "meaning": "Combination of name Tatiana and Tina",
+    "name": "tattina",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tattina-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 990253,
+    "meaning": "One who brings joy",
+    "name": "Tatum",
+    "origin": "Romanian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tatum-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985773,
+    "meaning": "Haired",
+    "name": "tatyana",
+    "origin": "Latin,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatyana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985774,
+    "meaning": "A fairy princess",
+    "name": "tatyanah",
+    "origin": "Russian,United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatyanah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985775,
+    "meaning": "Queen",
+    "name": "tatyanna",
+    "origin": "Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tatyanna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985776,
+    "meaning": "Abundance of something",
+    "name": "taufeer",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taufeer-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 999019,
+    "meaning": "Priestess",
+    "name": "Taula",
+    "origin": "Polynesian,Tongan",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Taula-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985784,
+    "meaning": "Many lakes; Rivers",
+    "name": "taura",
+    "origin": "Japanese",
+    "religion": "Shinto",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taura-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985787,
+    "meaning": "Goddess of pregnant women",
+    "name": "tauret",
+    "origin": "Egyptian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tauret-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985788,
+    "meaning": "The bull",
+    "name": "taurina",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taurina-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 999020,
+    "meaning": "A white seabird with black spots",
+    "name": "Tavake",
+    "origin": "Polynesian,Tongan",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tavake-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985799,
+    "meaning": "Eighth",
+    "name": "tavia",
+    "origin": "Latin,Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985801,
+    "meaning": "She who is eight",
+    "name": "tavie",
+    "origin": "Latin",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985807,
+    "meaning": "Goddess Durga",
+    "name": "tavishi",
+    "origin": "Bengali,Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavishi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985808,
+    "meaning": "She who is eight in line",
+    "name": "tavita",
+    "origin": "Spanish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavita-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985810,
+    "meaning": "Captivated by God",
+    "name": "tavleen",
+    "origin": "Indian",
+    "religion": "Sikh",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavleen-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985812,
+    "meaning": "A fracture",
+    "name": "tavora",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavora-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985814,
+    "meaning": "A deer",
+    "name": "tavvi",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tavvi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985816,
+    "meaning": "A trusted woman",
+    "name": "tawakel",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawakel-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985818,
+    "meaning": "A capable woman",
+    "name": "tawana",
+    "origin": "Persian",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985819,
+    "meaning": "A slender, young tree",
+    "name": "tawanda",
+    "origin": "African,Shona,Zimbabwean",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawanda-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985820,
+    "meaning": "One who vandalises",
+    "name": "tawanna",
+    "origin": "German",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawanna-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985821,
+    "meaning": "A remorseful woman",
+    "name": "tawbah",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawbah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985829,
+    "meaning": "One who has good luck",
+    "name": "tawfiqa",
+    "origin": "Urdu",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawfiqa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985831,
+    "meaning": "She who is born after twins",
+    "name": "tawia",
+    "origin": "African",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 995032,
+    "meaning": "The first child after twins",
+    "name": "Tawiah",
+    "origin": "Ghana",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tawiah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985833,
+    "meaning": "A form of tawny; Orange brown",
+    "name": "tawnee",
+    "origin": "Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawnee-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985834,
+    "meaning": "A form of tawny; Golden brown",
+    "name": "tawney",
+    "origin": "Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawney-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985835,
+    "meaning": "A form of tawny; Golden brown",
+    "name": "tawni",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawni-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985836,
+    "meaning": "A form of tawny; Golden brown",
+    "name": "tawnie",
+    "origin": "Anglo Saxon",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawnie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985838,
+    "meaning": "Brownish yellow; Tan",
+    "name": "tawny",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tawny-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985843,
+    "meaning": "Bandage",
+    "name": "taya",
+    "origin": "Anglo Saxon,Russian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taya-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985845,
+    "meaning": "A very pleasant person",
+    "name": "tayaba",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayaba-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 928847,
+    "meaning": "A form of Taya; A variant form of Tiyana, from the house of Tatius",
+    "name": "Tayana",
+    "origin": "English,Indo European,Latin",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tayana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985846,
+    "meaning": "A young beaver",
+    "name": "tayanita",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayanita-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985847,
+    "meaning": "Aztec name; Suray",
+    "name": "tayanna",
+    "origin": "Aztec",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayanna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985848,
+    "meaning": "She who is pure",
+    "name": "taybah",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taybah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985849,
+    "meaning": "A silent girl",
+    "name": "tayci",
+    "origin": "Latin",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayci-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 990257,
+    "meaning": "One who is light hearted and cheerful",
+    "name": "Taydem",
+    "origin": "Romanian",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Taydem-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985851,
+    "meaning": "He has been seen",
+    "name": "taye",
+    "origin": "Scottish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taye-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985854,
+    "meaning": "A good, pleasant person",
+    "name": "tayebba",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayebba-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985856,
+    "meaning": "A new moon",
+    "name": "tayen",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985857,
+    "meaning": "The gracious one",
+    "name": "tayga",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayga-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985859,
+    "meaning": "A little gem",
+    "name": "tayja",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayja-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985860,
+    "meaning": "To cut",
+    "name": "tayla",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayla-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985861,
+    "meaning": "A tailor",
+    "name": "taylah",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985863,
+    "meaning": "To cut or split",
+    "name": "taylar",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylar-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985864,
+    "meaning": "Variant of the name Taylor; Occupational name; Tailor",
+    "name": "taylee",
+    "origin": "English,United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylee-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985867,
+    "meaning": "A tailor",
+    "name": "taylie",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985868,
+    "meaning": "Tailor",
+    "name": "taylir",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylir-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985870,
+    "meaning": "A form of taylor",
+    "name": "taylore",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylore-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985871,
+    "meaning": "A form of taylor",
+    "name": "taylour",
+    "origin": "",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylour-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985872,
+    "meaning": "Tailor",
+    "name": "taylynne",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taylynne-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985874,
+    "meaning": "An oasis",
+    "name": "tayma",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayma-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985878,
+    "meaning": "A seamstress",
+    "name": "tayna",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985880,
+    "meaning": "She who is born during the returning Moon",
+    "name": "taynee",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taynee-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985881,
+    "meaning": "Girl born during the returning moon",
+    "name": "taynie",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taynie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985882,
+    "meaning": "A child born during the returning moon",
+    "name": "tayny",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayny-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985886,
+    "meaning": "Woman from Asia",
+    "name": "taysia",
+    "origin": "United States",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taysia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985893,
+    "meaning": "Welsh variation of Octavia",
+    "name": "tayvia",
+    "origin": "Welsh",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayvia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985895,
+    "meaning": "A pleasant woman",
+    "name": "tayyaba",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyaba-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985896,
+    "meaning": "A chaste woman",
+    "name": "tayyebah",
+    "origin": "Quranic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyebah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985898,
+    "meaning": "A good deed",
+    "name": "tayyebeh",
+    "origin": "Persian",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyebeh-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985900,
+    "meaning": "Good-natured girl",
+    "name": "tayyiba",
+    "origin": "Persian,Quranic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyiba-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985897,
+    "meaning": "A chaste woman",
+    "name": "tayyibah",
+    "origin": "Quranic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyibah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985901,
+    "meaning": "Person with good nature",
+    "name": "tayyibatunnisa",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tayyibatunnisa-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985903,
+    "meaning": "The fresh and the new",
+    "name": "taza",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/taza-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 1000494,
+    "meaning": "Clean flower",
+    "name": "Tazagul",
+    "origin": "Kazakh",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tazagul-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985905,
+    "meaning": "A princess",
+    "name": "tazanna",
+    "origin": "Native American",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tazanna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985906,
+    "meaning": "One who is elegant and graceful",
+    "name": "tazara",
+    "origin": "African,Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tazara-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985907,
+    "meaning": "An optimistic and versatile individual",
+    "name": "tazashia",
+    "origin": "English",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tazashia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 988843,
+    "meaning": "Decoration; Adornment; Makeup",
+    "name": "Tazeen",
+    "origin": "Arabic,Lebanese",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Tazeen-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 985909,
+    "meaning": "One who is glorified",
+    "name": "tazima",
+    "origin": "",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/tazima-arabic.mp3"
+  }
+]

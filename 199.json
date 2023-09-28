@@ -1,0 +1,902 @@
+[
+  {
+    "gender": "Girl",
+    "id": 999576,
+    "meaning": "Snowy",
+    "name": "Nives",
+    "origin": "Slovene",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Nives-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 1000804,
+    "meaning": "Maiden or girl",
+    "name": "Nivi",
+    "origin": "Greenlandic",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Nivi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973318,
+    "meaning": "A girl; A female child",
+    "name": "niviarsiaq",
+    "origin": "Greenlandic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niviarsiaq-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973319,
+    "meaning": "An information about something",
+    "name": "nividh",
+    "origin": "Hindi",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nividh-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973324,
+    "meaning": "Bliss; Last stage of happiness",
+    "name": "nivriti",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nivriti-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973325,
+    "meaning": "renunciation of sorrows",
+    "name": "nivritti",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nivritti-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973326,
+    "meaning": "The retirement from life",
+    "name": "nivruti",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nivruti-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973328,
+    "meaning": "The separation from world",
+    "name": "nivrutti",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nivrutti-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973330,
+    "meaning": "Small sprite of water",
+    "name": "nixie",
+    "origin": "German",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nixie-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973333,
+    "meaning": "Bright; Purpose",
+    "name": "niya",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niya-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973335,
+    "meaning": "A tall and pretty girl",
+    "name": "niyaf",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyaf-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973338,
+    "meaning": "The intentions or the aim",
+    "name": "niyath",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyath-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973339,
+    "meaning": "Destiny; Luck",
+    "name": "niyati",
+    "origin": "Hindi",
+    "religion": "Hindu,Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyati-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973341,
+    "meaning": "Winner with a gracious personality",
+    "name": "niyla",
+    "origin": "Indian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyla-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973342,
+    "meaning": "A patient listener; A careful listener",
+    "name": "niyoosha",
+    "origin": "Persian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyoosha-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973343,
+    "meaning": "A person\u0027s intentions",
+    "name": "niyyat",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/niyyat-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973297,
+    "meaning": "One who blossom",
+    "name": "nizah",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nizah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973349,
+    "meaning": "A blossom or a bud of flower",
+    "name": "nizana",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nizana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973351,
+    "meaning": "Delightful; Clean or cleanliness",
+    "name": "nizha",
+    "origin": "Persian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nizha-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973353,
+    "meaning": "Beautiful girl; Full of grace",
+    "name": "nizhoni",
+    "origin": "United States",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nizhoni-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 997657,
+    "meaning": "Daughter of a warrior",
+    "name": "Njeri",
+    "origin": "African,Kenyan",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Njeri-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 997658,
+    "meaning": "She who returned",
+    "name": "Njoki",
+    "origin": "African,Kenyan",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Njoki-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973355,
+    "meaning": "Highland or the plateaus",
+    "name": "njood",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/njood-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973356,
+    "meaning": "The precious treasure from God",
+    "name": "nkechi",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nkechi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973357,
+    "meaning": "God\u0027s pleasure which came to this world",
+    "name": "nkechinyere",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nkechinyere-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973358,
+    "meaning": "Once more God will provide the excellent gift",
+    "name": "nkiru",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nkiru-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973359,
+    "meaning": "God will give me something ever best once again",
+    "name": "nkiruka",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nkiruka-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973362,
+    "meaning": "My mother is the best in the world",
+    "name": "nneka",
+    "origin": "Nigerian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nneka-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973363,
+    "meaning": "The one who looks same as her grand mother",
+    "name": "nnenia",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nnenia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973364,
+    "meaning": "The one who is fond of her dad\u0027s mum",
+    "name": "nnenna",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nnenna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973365,
+    "meaning": "Resembles mother\u0027s mother",
+    "name": "nnenne",
+    "origin": "Nigerian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nnenne-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973371,
+    "meaning": "Pleasantness",
+    "name": "noami",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noami-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 999791,
+    "meaning": "Prickly pear fruit",
+    "name": "Nochtli",
+    "origin": "Aztec",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Nochtli-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973378,
+    "meaning": "Happy Christmas season",
+    "name": "noela",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noela-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973379,
+    "meaning": "Fog from paradise",
+    "name": "noelani",
+    "origin": "Hawaiian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noelani-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973380,
+    "meaning": "Delightful Christmas time",
+    "name": "noelia",
+    "origin": "Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noelia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973381,
+    "meaning": "Christmas",
+    "name": "noella",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noella-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973382,
+    "meaning": "Birth",
+    "name": "noelle",
+    "origin": "English,French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noelle-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973383,
+    "meaning": "Pleasantness; Delight",
+    "name": "noemi",
+    "origin": "Italian,Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noemi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973384,
+    "meaning": "Pleasantness",
+    "name": "noemia",
+    "origin": "Portuguese",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noemia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973385,
+    "meaning": "Agreeableness; Satisfaction",
+    "name": "noemie",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noemie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973389,
+    "meaning": "Attractive and beautiful lady.",
+    "name": "nogah",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nogah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973390,
+    "meaning": "Poised and graceful individual",
+    "name": "nogga",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nogga-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973391,
+    "meaning": "A person who is quick minded and fertile",
+    "name": "nogge",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nogge-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973393,
+    "meaning": "Prettiest woman from paradise",
+    "name": "nohealani",
+    "origin": "Hawaiian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nohealani-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973394,
+    "meaning": "Christ\u0027s birthday",
+    "name": "nohely",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nohely-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973395,
+    "meaning": "Pleasantness; Delight",
+    "name": "nohemi",
+    "origin": "Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nohemi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973397,
+    "meaning": "One who is glittering brightly",
+    "name": "nohreen",
+    "origin": "Urdu",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nohreen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973398,
+    "meaning": "Respectful or honest or decent",
+    "name": "noirin",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noirin-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973399,
+    "meaning": "Intelligent; Knowledgeable; Possess excellent skills",
+    "name": "nojood",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nojood-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973400,
+    "meaning": "The increase in the intelligence or knowledge",
+    "name": "nojoud",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nojoud-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973403,
+    "meaning": "Dearest daughter who looks pretty as the moon",
+    "name": "nokomis",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nokomis-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973404,
+    "meaning": "The one who has fair complexion",
+    "name": "nola",
+    "origin": "Gaelic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nola-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973407,
+    "meaning": "Reflects the shining sun",
+    "name": "nolcha",
+    "origin": "United States",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nolcha-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973408,
+    "meaning": "Christ was born on Christmas day",
+    "name": "noleen",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noleen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973411,
+    "meaning": "Beautiful and fairer in color",
+    "name": "nolene",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nolene-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973412,
+    "meaning": "Loath; Unwilling; Hesitant",
+    "name": "noleta",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noleta-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973413,
+    "meaning": "A strong resemblance with olive tree",
+    "name": "nolicia",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nolicia-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973416,
+    "meaning": "Unpolluted one from Noal",
+    "name": "nolwenn",
+    "origin": "Bretons",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nolwenn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973417,
+    "meaning": "Cultivator; Farmer; Sample; Model",
+    "name": "noma",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noma-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973419,
+    "meaning": "Brilliant or sunshine light",
+    "name": "nomalanga",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomalanga-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973420,
+    "meaning": "Domination or authority or command",
+    "name": "noman",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noman-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973422,
+    "meaning": "Who was delivered or received on Sunday",
+    "name": "nomasonto",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomasonto-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973423,
+    "meaning": "Regard; Respect; Admiration",
+    "name": "nombeko",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nombeko-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973424,
+    "meaning": "A girl from the forest",
+    "name": "nomeda",
+    "origin": "Lithuanian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomeda-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973426,
+    "meaning": "Beautiful; Straight; Water; Ability; Skill",
+    "name": "nomi",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973428,
+    "meaning": "Marvelous and hallowed person",
+    "name": "nomsa",
+    "origin": "Zulu",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomsa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973429,
+    "meaning": "The one who looks like an eagle",
+    "name": "nomusa",
+    "origin": "Zulu",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomusa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973430,
+    "meaning": "Who is like unto Yahweh",
+    "name": "nomuula",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomuula-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973431,
+    "meaning": "There is none like the creator of this world",
+    "name": "nomy",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nomy-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973432,
+    "meaning": "There is none like the great God",
+    "name": "nona",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nona-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973433,
+    "meaning": "Hungarian form of Michael; Angel of God",
+    "name": "noni",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noni-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973434,
+    "meaning": "Earnest; Tribute",
+    "name": "nonie",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nonie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973436,
+    "meaning": "The ruler of the deep sea",
+    "name": "nontle",
+    "origin": "African",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nontle-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973441,
+    "meaning": "The biggest star of the space",
+    "name": "noomi",
+    "origin": "Hebrew",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noomi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973445,
+    "meaning": "The pledge and promise",
+    "name": "noor-jehan",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noor-jehan-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973447,
+    "meaning": "Name of a famous poet",
+    "name": "noora",
+    "origin": "Arabic",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noora-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973448,
+    "meaning": "Who is like unto the powerful God",
+    "name": "noorah",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973449,
+    "meaning": "Discontent towards authority; The one who is resisting control; Disagreeable taste",
+    "name": "nooralhaya",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nooralhaya-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973450,
+    "meaning": "Who can stand equal to the most high God",
+    "name": "noorali",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorali-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973451,
+    "meaning": "A gift from the Almighty; The beautiful fragrance",
+    "name": "nooraniyah",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nooraniyah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973456,
+    "meaning": "A person who help others",
+    "name": "noorien",
+    "origin": "Hindi",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorien-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973457,
+    "meaning": "Mother",
+    "name": "noorin",
+    "origin": "Irish",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorin-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973458,
+    "meaning": "A person who posses knowledge and gives knowledge;  A teacher",
+    "name": "noorjahan",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorjahan-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973463,
+    "meaning": "The bright light of the universe",
+    "name": "nooruddunya",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nooruddunya-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973469,
+    "meaning": "Excellent; Excessive; Countless; Boundless",
+    "name": "noorulbasar",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorulbasar-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973473,
+    "meaning": "The brightness of the womankind",
+    "name": "noorunnisa",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noorunnisa-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973476,
+    "meaning": "Entertaining and pleasurable damsel",
+    "name": "noosha",
+    "origin": "Iranian",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noosha-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973477,
+    "meaning": "A individual who is filled with happiness",
+    "name": "nophar",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nophar-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973479,
+    "meaning": "Light; Bright; Honorable",
+    "name": "nora",
+    "origin": "Anglo Norman,German,Hungarian,Norman,Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/nora-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973480,
+    "meaning": "Person who is graceful and moral",
+    "name": "norabel",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norabel-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973481,
+    "meaning": "Honor; Respect; Shining light; Sunrays",
+    "name": "norah",
+    "origin": "Italian,Norwegian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norah-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973483,
+    "meaning": "The person who is wonderful and decency",
+    "name": "noralyn",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noralyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973484,
+    "meaning": "A divine and glittering light",
+    "name": "norayr",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norayr-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973486,
+    "meaning": "The superwoman from the Northern part of the land",
+    "name": "norberta",
+    "origin": "Germanic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norberta-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973490,
+    "meaning": "Person who is upright and sunlit",
+    "name": "noreen",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noreen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973491,
+    "meaning": "The person who is graceful and decency",
+    "name": "noreena",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noreena-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973492,
+    "meaning": "Resembling delicious food item",
+    "name": "noreenah",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/noreenah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973493,
+    "meaning": "From the Northern land or part",
+    "name": "norell",
+    "origin": "Scandinavian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norell-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 973494,
+    "meaning": "The lady who is possessing integrity and honesty",
+    "name": "norella",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/norella-english.mp3"
+  }
+]

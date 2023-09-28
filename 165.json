@@ -1,0 +1,902 @@
+[
+  {
+    "gender": "Girl",
+    "id": 967147,
+    "meaning": "Praiseworthy person",
+    "name": "madihah",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madihah-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967148,
+    "meaning": "Mary Magdalene; Tower",
+    "name": "madilyn",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madilyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967149,
+    "meaning": "One who is from Magdala",
+    "name": "madilynn",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madilynn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967150,
+    "meaning": "City of the Prophet",
+    "name": "madina",
+    "origin": "Arabic,Spanish",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madina-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967152,
+    "meaning": "Woman with mesmerizing eyes",
+    "name": "madirakshi",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madirakshi-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967153,
+    "meaning": "Son of Maud",
+    "name": "madisen",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madisen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967155,
+    "meaning": "A gift of God",
+    "name": "madissen",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madissen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967156,
+    "meaning": "It is Matthew\u0027s son; a brave son; Elegant being",
+    "name": "madisyn",
+    "origin": "United States",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madisyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967157,
+    "meaning": "A splendid; Noble one",
+    "name": "madja",
+    "origin": "Slavic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madja-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967158,
+    "meaning": "A woman of Magdala",
+    "name": "madlaina",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madlaina-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967159,
+    "meaning": "A town with a tower",
+    "name": "madlen",
+    "origin": "Nordic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madlen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 997950,
+    "meaning": "Of Magdala",
+    "name": "Madlenka",
+    "origin": "Slovak",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Madlenka-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967160,
+    "meaning": "One who comes from the town Magdala",
+    "name": "madleyne",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madleyne-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967161,
+    "meaning": "A tall tower",
+    "name": "madlin",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madlin-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 988159,
+    "meaning": "Woman of Magdala",
+    "name": "Mado",
+    "origin": "Argentina",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Mado-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967164,
+    "meaning": "My lady",
+    "name": "madonna",
+    "origin": "Italian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madonna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967166,
+    "meaning": "Mother; One who is motherly",
+    "name": "madra",
+    "origin": "Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madra-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967167,
+    "meaning": "Mother",
+    "name": "madre",
+    "origin": "Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madre-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967169,
+    "meaning": "Short love poem",
+    "name": "madrigal",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madrigal-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967170,
+    "meaning": "Mother Goddess",
+    "name": "madrona",
+    "origin": "Spanish,Welsh",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madrona-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967172,
+    "meaning": "An early saint",
+    "name": "madrun",
+    "origin": "Welsh",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madrun-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967174,
+    "meaning": "Variation of the name Matthew; Gift of God",
+    "name": "madsen",
+    "origin": "Danish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madsen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967176,
+    "meaning": "A bird; sugar",
+    "name": "madura",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madura-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967179,
+    "meaning": "Maiden",
+    "name": "mady",
+    "origin": "English,German",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/mady-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967180,
+    "meaning": "She who comes from the tower",
+    "name": "madylan",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madylan-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967182,
+    "meaning": "A gift of God",
+    "name": "madysen",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/madysen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967184,
+    "meaning": "A bitter pearl",
+    "name": "mae",
+    "origin": "French,Hebrew,Portuguese",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/mae-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967185,
+    "meaning": "One who s lovely; Easy to love",
+    "name": "maebel",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maebel-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967186,
+    "meaning": "The cause of a great happiness and joy",
+    "name": "maebh",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maebh-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967187,
+    "meaning": "One who is from the high tower",
+    "name": "maebry",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maebry-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967188,
+    "meaning": "A bitter one",
+    "name": "maeby",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeby-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967189,
+    "meaning": "A weapon; A version of Macy",
+    "name": "maecea",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maecea-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967190,
+    "meaning": "One who self reliant; Flexible and stable minded",
+    "name": "maecy",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maecy-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 997436,
+    "meaning": "Spring of water",
+    "name": "Maeen",
+    "origin": "Arabic,Malay",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maeen-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 997437,
+    "meaning": "One who takes care of others",
+    "name": "Maeena",
+    "origin": "Arabic,Malay",
+    "religion": "Islam",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maeena-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967191,
+    "meaning": "A pearl; One who has pearls",
+    "name": "maegan",
+    "origin": "Welsh",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maegan-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967192,
+    "meaning": "From the name Meg; Pearl",
+    "name": "maegen",
+    "origin": "Welsh",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maegen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926139,
+    "meaning": "Young; Unmarried woman; A variant form of Maida",
+    "name": "Maegth",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maegth-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967195,
+    "meaning": "The child of truth",
+    "name": "maeko",
+    "origin": "Japanese",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeko-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967196,
+    "meaning": "An unmarried; Elegant and one from the high tower",
+    "name": "maeleigh",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeleigh-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967198,
+    "meaning": "A person who is charming and passionate",
+    "name": "maeliana",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeliana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967199,
+    "meaning": "A princess",
+    "name": "maelie",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maelie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 1000368,
+    "meaning": "Prince",
+    "name": "Maelis",
+    "origin": "Bretons,Irish",
+    "religion": "Christianity",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maelis-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967201,
+    "meaning": "Princess",
+    "name": "maelyn",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maelyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967202,
+    "meaning": "Goddess of spring growth",
+    "name": "maelynn",
+    "origin": "French",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maelynn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967203,
+    "meaning": "A truthful smile",
+    "name": "maemi",
+    "origin": "Japanese",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maemi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967204,
+    "meaning": "A marvelous woman; Mother",
+    "name": "maera",
+    "origin": "Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maera-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967208,
+    "meaning": "Form of name Madeline; One who is from Magdala town",
+    "name": "maerla",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maerla-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926145,
+    "meaning": "Famous; One who is well-known",
+    "name": "Maertisa",
+    "origin": "English",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maertisa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926146,
+    "meaning": "One who illuminates; Joy; One who brings delight",
+    "name": "Maerwynn",
+    "origin": "Welsh",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maerwynn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967210,
+    "meaning": "Feminine form of Mason; Stone worker",
+    "name": "maesen",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maesen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967211,
+    "meaning": "Diminutive for Margareth; Pearl",
+    "name": "maesie",
+    "origin": "Scottish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maesie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967212,
+    "meaning": "A daughter of a stone worker",
+    "name": "maessa",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maessa-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967214,
+    "meaning": "One who is dedicated to God; Mars",
+    "name": "maetta",
+    "origin": "Celtic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maetta-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967215,
+    "meaning": "Welcome",
+    "name": "maeva",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeva-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967216,
+    "meaning": "One who rules or intoxicates",
+    "name": "maeve",
+    "origin": "Irish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeve-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967217,
+    "meaning": "A mesmerizing raven",
+    "name": "maeven",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maeven-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967218,
+    "meaning": "She who descends from a high tower",
+    "name": "maewyn",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maewyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967220,
+    "meaning": "One who is beautiful like a pearl",
+    "name": "maezie",
+    "origin": "Scottish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maezie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967221,
+    "meaning": "A powerful warrior",
+    "name": "mafalda",
+    "origin": "German,Italian,Portuguese,Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/mafalda-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967222,
+    "meaning": "One who has great success; salvation",
+    "name": "mafaz",
+    "origin": "Arabic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/mafaz-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926150,
+    "meaning": "Pearl; A variation of the name Margaret",
+    "name": "Mag",
+    "origin": "Greek",
+    "religion": "Greek",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Mag-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926151,
+    "meaning": "Flower; As Pure as Jasmine Flower; Fragrant and Aromatic Jasmine Flower",
+    "name": "Magadhi",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magadhi-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967226,
+    "meaning": "Of Magdala",
+    "name": "magali",
+    "origin": "Arabic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magali-arabic.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967227,
+    "meaning": "Pearl",
+    "name": "magalie",
+    "origin": "French",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magalie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926152,
+    "meaning": "Of Magdala",
+    "name": "Magaly",
+    "origin": "Greek",
+    "religion": "Greek",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magaly-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967228,
+    "meaning": "A woman who is alluring as a pearl",
+    "name": "magan",
+    "origin": "Greek",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magan-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967229,
+    "meaning": "Precious as a pearl",
+    "name": "magana",
+    "origin": "Greek",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magana-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926153,
+    "meaning": "Strong battle maiden; A variant of Magnhilda",
+    "name": "Maganhildi",
+    "origin": "German",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maganhildi-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926154,
+    "meaning": "Young; Unmarried; Maiden; A variant of Maida",
+    "name": "Magd",
+    "origin": "English,German",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magd-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967232,
+    "meaning": "From Magdala",
+    "name": "magda",
+    "origin": "Biblical,German,Slavic",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magda-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926155,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Magdala",
+    "origin": "Hebrew,Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magdala-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926156,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Magdalen",
+    "origin": "Hebrew",
+    "religion": "Greek,Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magdalen-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967233,
+    "meaning": "Of Magdala",
+    "name": "magdalene",
+    "origin": "Biblical,English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdalene-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967234,
+    "meaning": "A woman from the tower town",
+    "name": "magdalina",
+    "origin": "Biblical,Spanish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdalina-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967235,
+    "meaning": "A woman of Magdala",
+    "name": "magdalini",
+    "origin": "Biblical",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdalini-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967236,
+    "meaning": "She who is from the town Magdala, that means towers",
+    "name": "magdalone",
+    "origin": "Biblical",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdalone-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967237,
+    "meaning": "From the town on the coast of the sea of Galilee",
+    "name": "magdalyn",
+    "origin": "Biblical,English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdalyn-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967238,
+    "meaning": "She comes from the town Magdala of Galilee",
+    "name": "magdeline",
+    "origin": "Biblical,English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magdeline-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926158,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Magdolna",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magdolna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 996523,
+    "meaning": "The coming moon",
+    "name": "Magena",
+    "origin": "Gothic",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magena-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967240,
+    "meaning": "A deep pink color",
+    "name": "magenta",
+    "origin": "Italian,Latin",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magenta-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967241,
+    "meaning": "A name of God",
+    "name": "magesh",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magesh-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926161,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Magg",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magg-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926162,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Magga",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magga-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967242,
+    "meaning": "A precious pearl",
+    "name": "magge",
+    "origin": "Greek",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magge-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967243,
+    "meaning": "Lovely pearls",
+    "name": "magges",
+    "origin": "Greek",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magges-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967244,
+    "meaning": "Woman lovely as a pearl",
+    "name": "maggi",
+    "origin": "Greek,United States",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maggi-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967245,
+    "meaning": "Pearl",
+    "name": "maggie",
+    "origin": "Greek,United States",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maggie-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967248,
+    "meaning": "One who is like a maggot",
+    "name": "maggote",
+    "origin": "English",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maggote-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967249,
+    "meaning": "Pearl",
+    "name": "maggy",
+    "origin": "Greek",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maggy-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926163,
+    "meaning": "Of Magdala; High tower; Variant transcription of Magdalena",
+    "name": "Maghenyld",
+    "origin": "Hebrew",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maghenyld-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967251,
+    "meaning": "One who likes giving gifts to people",
+    "name": "maghi",
+    "origin": "Indian",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/maghi-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926164,
+    "meaning": "Ruler; Leader; Chief; Queen",
+    "name": "Maghona",
+    "origin": "Indian",
+    "religion": "Hindu",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Maghona-hindi.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967253,
+    "meaning": "Maria of the town of Magdala",
+    "name": "magli",
+    "origin": "Greek,Norse",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magli-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967258,
+    "meaning": "A mighty; Strong woman",
+    "name": "magna",
+    "origin": "Norse,Swedish",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magna-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 967261,
+    "meaning": "A mighty and strong one in battle",
+    "name": "magnhild",
+    "origin": "Norse",
+    "religion": "Judaism",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/magnhild-english.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926167,
+    "meaning": "Strong battle maiden; A variant of Magnhilde",
+    "name": "Magnhilda",
+    "origin": "German",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magnhilda-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926168,
+    "meaning": "Strong battle maiden; A variant of Magnhilde",
+    "name": "Magnhilde",
+    "origin": "German",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magnhilde-german.mp3"
+  },
+  {
+    "gender": "Girl",
+    "id": 926169,
+    "meaning": "Strong battle maiden; A variant of Magnhilde",
+    "name": "Magnild",
+    "origin": "German",
+    "religion": "",
+    "soundUrl": "https://cdn2.momjunction.com/wp-content/uploads/baby-names/audio_files/Magnild-german.mp3"
+  }
+]
