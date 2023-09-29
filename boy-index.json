@@ -1,0 +1,132 @@
+[
+    {
+        "alphabet": "a",
+        "startIndex": 1,
+        "lastIndex": 65
+    },
+    {
+        "alphabet": "b",
+        "startIndex": 65,
+        "lastIndex": 98
+    },
+    {
+        "alphabet": "c",
+        "startIndex": 98,
+        "lastIndex": 121
+    },
+    {
+        "alphabet": "d",
+        "startIndex": 121,
+        "lastIndex": 146
+    },
+    {
+        "alphabet": "e",
+        "startIndex": 146,
+        "lastIndex": 161
+    },
+    {
+        "alphabet": "f",
+        "startIndex": 161,
+        "lastIndex": 171
+    },
+    {
+        "alphabet": "g",
+        "startIndex": 171,
+        "lastIndex": 193
+    },
+    {
+        "alphabet": "h",
+        "startIndex": 193,
+        "lastIndex": 216
+    },
+    {
+        "alphabet": "i",
+        "startIndex": 216,
+        "lastIndex": 218
+    },
+    {
+        "alphabet": "j",
+        "startIndex": 218,
+        "lastIndex": 238
+    },
+    {
+        "alphabet": "k",
+        "startIndex": 238,
+        "lastIndex": 264
+    },
+    {
+        "alphabet": "l",
+        "startIndex": 264,
+        "lastIndex": 276
+    },
+    {
+        "alphabet": "m",
+        "startIndex": 276,
+        "lastIndex": 302
+    },
+    {
+        "alphabet": "n",
+        "startIndex": 302,
+        "lastIndex": 321
+    },
+    {
+        "alphabet": "o",
+        "startIndex": 321,
+        "lastIndex": 328
+    },
+    {
+        "alphabet": "p",
+        "startIndex": 328,
+        "lastIndex": 350
+    },
+    {
+        "alphabet": "q",
+        "startIndex": 350,
+        "lastIndex": 352
+    },
+    {
+        "alphabet": "r",
+        "startIndex": 352,
+        "lastIndex": 370
+    },
+    {
+        "alphabet": "s",
+        "startIndex": 370,
+        "lastIndex": 403
+    },
+    {
+        "alphabet": "t",
+        "startIndex": 403,
+        "lastIndex": 419
+    },
+    {
+        "alphabet": "u",
+        "startIndex": 419,
+        "lastIndex": 420
+    },
+    {
+        "alphabet": "v",
+        "startIndex": 420,
+        "lastIndex": 422
+    },
+    {
+        "alphabet": "w",
+        "startIndex": 422,
+        "lastIndex": 423
+    },
+    {
+        "alphabet": "x",
+        "startIndex": 423,
+        "lastIndex": 423
+    },
+    {
+        "alphabet": "y",
+        "startIndex": 423,
+        "lastIndex": 425
+    },
+    {
+        "alphabet": "z",
+        "startIndex": 425,
+        "lastIndex": 427
+    }
+]

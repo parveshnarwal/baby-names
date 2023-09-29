@@ -1,0 +1,132 @@
+[
+    {
+        "alphabet": "a",
+        "startIndex": 1,
+        "lastIndex": 37
+    },
+    {
+        "alphabet": "b",
+        "startIndex": 37,
+        "lastIndex": 50
+    },
+    {
+        "alphabet": "c",
+        "startIndex": 50,
+        "lastIndex": 66
+    },
+    {
+        "alphabet": "d",
+        "startIndex": 66,
+        "lastIndex": 76
+    },
+    {
+        "alphabet": "e",
+        "startIndex": 76,
+        "lastIndex": 89
+    },
+    {
+        "alphabet": "f",
+        "startIndex": 89,
+        "lastIndex": 96
+    },
+    {
+        "alphabet": "g",
+        "startIndex": 96,
+        "lastIndex": 106
+    },
+    {
+        "alphabet": "h",
+        "startIndex": 106,
+        "lastIndex": 116
+    },
+    {
+        "alphabet": "i",
+        "startIndex": 116,
+        "lastIndex": 118
+    },
+    {
+        "alphabet": "j",
+        "startIndex": 118,
+        "lastIndex": 131
+    },
+    {
+        "alphabet": "k",
+        "startIndex": 131,
+        "lastIndex": 148
+    },
+    {
+        "alphabet": "l",
+        "startIndex": 148,
+        "lastIndex": 163
+    },
+    {
+        "alphabet": "m",
+        "startIndex": 163,
+        "lastIndex": 188
+    },
+    {
+        "alphabet": "n",
+        "startIndex": 188,
+        "lastIndex": 201
+    },
+    {
+        "alphabet": "o",
+        "startIndex": 201,
+        "lastIndex": 205
+    },
+    {
+        "alphabet": "p",
+        "startIndex": 205,
+        "lastIndex": 215
+    },
+    {
+        "alphabet": "q",
+        "startIndex": 215,
+        "lastIndex": 216
+    },
+    {
+        "alphabet": "r",
+        "startIndex": 216,
+        "lastIndex": 229
+    },
+    {
+        "alphabet": "s",
+        "startIndex": 229,
+        "lastIndex": 256
+    },
+    {
+        "alphabet": "t",
+        "startIndex": 256,
+        "lastIndex": 270
+    },
+    {
+        "alphabet": "u",
+        "startIndex": 270,
+        "lastIndex": 271
+    },
+    {
+        "alphabet": "v",
+        "startIndex": 271,
+        "lastIndex": 273
+    },
+    {
+        "alphabet": "w",
+        "startIndex": 273,
+        "lastIndex": 274
+    },
+    {
+        "alphabet": "x",
+        "startIndex": 274,
+        "lastIndex": 274
+    },
+    {
+        "alphabet": "y",
+        "startIndex": 274,
+        "lastIndex": 276
+    },
+    {
+        "alphabet": "z",
+        "startIndex": 276,
+        "lastIndex": 278
+    }
+]

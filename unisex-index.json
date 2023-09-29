@@ -1,0 +1,122 @@
+[
+    {
+        "alphabet": "a",
+        "startIndex": 1,
+        "lastIndex": 3
+    },
+    {
+        "alphabet": "b",
+        "startIndex": 3,
+        "lastIndex": 4
+    },
+    {
+        "alphabet": "c",
+        "startIndex": 4,
+        "lastIndex": 5
+    },
+    {
+        "alphabet": "d",
+        "startIndex": 5,
+        "lastIndex": 6
+    },
+    {
+        "alphabet": "e",
+        "startIndex": 6,
+        "lastIndex": 7
+    },
+    {
+        "alphabet": "f",
+        "startIndex": 7,
+        "lastIndex": 8
+    },
+    {
+        "alphabet": "g",
+        "startIndex": 8,
+        "lastIndex": 9
+    },
+    {
+        "alphabet": "i",
+        "startIndex": 9,
+        "lastIndex": 10
+    },
+    {
+        "alphabet": "j",
+        "startIndex": 10,
+        "lastIndex": 11
+    },
+    {
+        "alphabet": "l",
+        "startIndex": 11,
+        "lastIndex": 13
+    },
+    {
+        "alphabet": "m",
+        "startIndex": 13,
+        "lastIndex": 15
+    },
+    {
+        "alphabet": "n",
+        "startIndex": 15,
+        "lastIndex": 16
+    },
+    {
+        "alphabet": "o",
+        "startIndex": 16,
+        "lastIndex": 17
+    },
+    {
+        "alphabet": "p",
+        "startIndex": 17,
+        "lastIndex": 18
+    },
+    {
+        "alphabet": "q",
+        "startIndex": 18,
+        "lastIndex": 18
+    },
+    {
+        "alphabet": "r",
+        "startIndex": 18,
+        "lastIndex": 19
+    },
+    {
+        "alphabet": "s",
+        "startIndex": 19,
+        "lastIndex": 21
+    },
+    {
+        "alphabet": "t",
+        "startIndex": 21,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "u",
+        "startIndex": 23,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "v",
+        "startIndex": 23,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "w",
+        "startIndex": 23,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "x",
+        "startIndex": 23,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "y",
+        "startIndex": 23,
+        "lastIndex": 23
+    },
+    {
+        "alphabet": "z",
+        "startIndex": 23,
+        "lastIndex": 23
+    }
+]
